@@ -1,0 +1,42 @@
+[
+    {
+        "key": "animation",
+        "title": "动漫",
+        "total": 3
+    },
+    {
+        "key": "film",
+        "title": "影视",
+        "total": 0
+    },
+    {
+        "key": "game",
+        "title": "游戏",
+        "total": 1
+    },
+    {
+        "key": "innovation",
+        "title": "原创",
+        "total": 0
+    },
+    {
+        "key": "literary",
+        "title": "文学",
+        "total": 0
+    },
+    {
+        "key": "philosophy",
+        "title": "哲学",
+        "total": 0
+    },
+    {
+        "key": "verse",
+        "title": "诗词",
+        "total": 0
+    },
+    {
+        "key": "world",
+        "title": "大千世界",
+        "total": 0
+    }
+]
